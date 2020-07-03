@@ -32,7 +32,7 @@ Reference [document](https://docs.ilhasoft.mobi/l/en/contacts/contacts-introduct
 
 ![channels](img/headerChannels.png)
 
-A channel is the gateway that will allow a contact to send and receive messages, text or voice, through the plataform, it is possible connect as many channels as necessary.
+A channel is the gateway that will allow a contact to send and receive messages, text or voice, through the platform, it is possible connect as many channels as necessary.
 
   - Channels Type <!-- Voice or text, native or external. -->
   - Adding a channel <!-- Quick step in. -->
@@ -201,7 +201,7 @@ When facing alternate spellings or names for regional locations, aliases can be 
 
   - Validating map's available regions in a flow
 
-## 7. U-Report
+<!-- ## 7. U-Report
 
   - Admistrating
   - Important points
@@ -209,7 +209,7 @@ When facing alternate spellings or names for regional locations, aliases can be 
 ## 8. Upartners
 
   - Administrating
-
+-->
 <!--## Hands on - day two
 
   - Exploring expressions and sorting options using rule and action sets.
