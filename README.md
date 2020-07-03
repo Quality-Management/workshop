@@ -12,6 +12,10 @@ Reference [document](https://docs.ilhasoft.mobi/l/en/getting-started/platform-ov
 
 ![messages](img/headerMessages.png)
 
+Analyse incoming and outgoing traffic, check its status and sort labeled messages.
+
+Reference [document](https://docs.ilhasoft.mobi/l/en/messages/messages-introduction).
+
 ### Contacts
 
 ![contacts](img/headerContacts.png)
@@ -22,7 +26,7 @@ A contact represents the link to a final user that interacted or will interact w
   - How is it created? <!-- Dynamic or manual ways and its limits. -->
   - What's important to keep in mind? <!-- Anonymity and privacy policy, data update and erase, real-time actions, types. -->
 
-Reference [document](https://docs.ilhasoft.mobi/l/en/contacts/contacts-introduction)
+Reference [document](https://docs.ilhasoft.mobi/l/en/contacts/contacts-introduction).
 
 ### Channels
 
@@ -34,7 +38,7 @@ A channel is the gateway that will allow a contact to send and receive messages,
   - Adding a channel <!-- Quick step in. -->
   - Administrating a channel <!-- Graphics, logs and editing. -->
 
-Reference [document](https://docs.ilhasoft.mobi/l/en/channels-category/channels-introduction)
+Reference [document](https://docs.ilhasoft.mobi/l/en/channels-category/channels-introduction).
 
 ### Introduction to flows (actionsets/rulesets)
 
@@ -47,7 +51,7 @@ The complexity of a flow is directly connected to its goal and the ability to ex
   - Editing
   - Testing
 
-Reference [document](https://docs.ilhasoft.mobi/l/en/flows-category/flow-article)
+Reference [document](https://docs.ilhasoft.mobi/l/en/flows-category/flow-article).
 
 ### Flow results and exports
 
@@ -59,7 +63,7 @@ When contacts interact with a flow, their answers will be stored as flow's resul
   - Analyzing
   - Exporting
 
-Reference [document](https://docs.ilhasoft.mobi/l/en/flows-category/visualizing-and-exporting-variables)
+Reference [document](https://docs.ilhasoft.mobi/l/en/flows-category/visualizing-and-exporting-variables).
 
 ### Triggers
 
@@ -72,7 +76,7 @@ The most common is a keyword. It works when a word is set to be the first messag
   - Editing
   - Types
 
-Reference [document](https://docs.ilhasoft.mobi/l/en/triggers-category/introduction-to-triggers)
+Reference [document](https://docs.ilhasoft.mobi/l/en/triggers-category/introduction-to-triggers).
 
 <!--### Maps
 
