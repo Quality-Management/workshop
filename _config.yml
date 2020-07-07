@@ -1,1 +1,6 @@
+# Main theme
 theme: jekyll-theme-architect
+
+# Languages
+# Default language: English
+languages: ["en", "ru", "es", "pt_br", "it", "kk", "el", "mk", "tr"]
